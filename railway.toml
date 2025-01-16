@@ -1,2 +1,2 @@
 [build]
-nixpacksPkgs = ["opencv", "libGL"]
+builder = "Dockerfile"
