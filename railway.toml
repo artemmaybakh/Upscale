@@ -1,0 +1,2 @@
+[build]
+nixpacksPkgs = ["opencv", "libGL"]
